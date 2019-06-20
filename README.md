@@ -1,2 +1,2 @@
 # GithubTutorial
-Dit is een tijdelijke tutorail
+Dit is een tijdelijke tutorial
